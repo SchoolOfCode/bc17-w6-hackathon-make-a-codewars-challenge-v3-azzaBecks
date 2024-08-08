@@ -1,0 +1,1 @@
+Clue: I'm normally used in dark environments.
