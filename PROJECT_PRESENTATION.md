@@ -6,7 +6,7 @@
 ### Plan the kata:
 
 - Develop a riddle-based challenge: "I'm tall when I'm young, and I'm short when I'm old. What am I?"
-- Define the function: solveRiddle(answer) that returns true for "candle" and false otherwise
+- Define the function: solveRiddle(answer) that returns true for (correct answer) and false otherwise
 
 ### Write the kata description in main.js:
 
