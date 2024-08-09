@@ -4,7 +4,7 @@ import { solveRiddle } from "./main.js";
 
 test("should return true for the correct answer", () => {
   const expected = true;
-  const actual = solveRiddle("");
+  const actual = solveRiddle("candle");
   expect(actual).toBe(expected);
 });
 
