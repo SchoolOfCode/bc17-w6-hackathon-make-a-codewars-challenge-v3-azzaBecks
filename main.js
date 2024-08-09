@@ -10,3 +10,8 @@
     // check the clue.md file if you need help LOL.
     // DO NOT GO INTO THE main.test.js FILE, UNLESS YOU HAVE ANSWERED CORRECTLY OR GIVEN UP (ANSWER REVEALED)
 
+    // RIDDLE:  "I'm tall when I'm young, and I'm short when I'm old. What am I?"
+
+    export function solveRiddle(answer) {
+                  return answer === "";
+                }

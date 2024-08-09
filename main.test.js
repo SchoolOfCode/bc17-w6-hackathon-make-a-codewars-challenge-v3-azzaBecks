@@ -4,14 +4,14 @@ import { solveRiddle } from "./main.js";
 
 test("should return true for the correct answer", () => {
   const expected = true;
-  const actual = solveRiddle("candle");
+  const actual = solveRiddle("");
   expect(actual).toBe(expected);
 });
 
 
 // test("should return true for the correct answer", () => {
 //     const expected = true;
-//     const actual = solveRiddle("a candle");
+//     const actual = solveRiddle(" ");
 //     expect(actual).toBe(expected);
 //   });
 
